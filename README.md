@@ -10,4 +10,8 @@ These layouts are built with **HTML and inline CSS only**, following Toyhouse’
 - Ready to paste directly into profiles
 - Each layout has its own folder and description
 
+<br>
+
+## View on Toyhouse
+View the properly rendered and interactive layouts [here](https://toyhou.se/Jellorat/characters/folder:7123423)
 
